@@ -1,0 +1,24 @@
+{
+  "myjson": {
+    "id": "1",
+    "name": "rinkal",
+    "surname": "bhesaniya"
+  },
+  "books": [
+    {
+      "title": "wings of fire",
+      "author": "APJ abdul kalam ",
+      "id": "2"
+    },
+    {
+      "title": "stya-asatya",
+      "author": "kajal-oza-vaidhya ",
+      "id": "ONh8K-s"
+    },
+    {
+      "name": "mayuri",
+      "surname": "Bhesaniya",
+      "id": "2hpOmqi"
+    }
+  ]
+}
